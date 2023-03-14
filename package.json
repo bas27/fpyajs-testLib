@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bas27/fpyajs-publiclib": "^1.0.1"
+    "@bas27/testlib": "^1.0.0"
   }
 }
